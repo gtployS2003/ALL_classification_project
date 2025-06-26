@@ -22,7 +22,7 @@
 🔗 [📂 ดาวน์โหลดชุดข้อมูล (Google Drive)](https://drive.google.com/file/d/1JxeIWdxCIpTOKOjK_TjxJVdu6ldFgITr/view?usp=sharing)
 
 ## 🧪 ขั้นตอนการดำเนินงาน
-![ขั้นตอนการดำเนินงาน](#)
+![ขั้นตอนการดำเนินงาน](assets/1.png)
 
 ## 📊 ผลการทดลอง
 
